@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.6.4](https://github.com/FabianaTavares/project-art-bs5/compare/v2.6.3...v2.6.4) (2023-07-18)
+
+
+### Errors Corrigidos
+
+* changelog ([f58effd](https://github.com/FabianaTavares/project-art-bs5/commit/f58effd4074e781e2ffb55ff36f9a05c79d65c82))
+
 ### [2.6.3](https://github.com/FabianaTavares/project-art-bs5/compare/v2.6.2...v2.6.3) (2023-07-18)
 
 
