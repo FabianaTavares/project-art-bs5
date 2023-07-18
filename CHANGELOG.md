@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.1.0 (2023-07-18)
+
+
+### Funcionalidades
+
+* configurações Iniciais ([e7e1c57](https://github.com/FabianaTavares/project-art-bs5/commit/e7e1c5776091a7bee23c099372bfa09f3e6e7e51))
+
 ## 1.0.0 (2023-07-18)
 
 ## [1.9.0](https://github.com/FabianaTavares/curso-bootstrap-5/compare/v1.8.0...v1.9.0) (2023-07-17)
