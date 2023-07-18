@@ -1,4 +1,4 @@
-name: Gerador de CHANGELOG
+name: ChangeLog
 
 # só executa no push de commit da branch master
 on:
