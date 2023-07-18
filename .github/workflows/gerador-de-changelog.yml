@@ -23,7 +23,7 @@ jobs:
     - name: Configura o GitHub token
       uses: fregante/setup-git-token@v1
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.FABIANA_GITHUB_TOKEN }}
         name: "Gerador de changelog"
         email: "changelog@users.noreply.github.com"
 
@@ -41,16 +41,3 @@ jobs:
         git checkout master
         npm run release
         git push origin master --follow-tags
-
-  sonarcloudScan1:
-    name: sonarcloudScan1
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      - name: SonarCloud Scan
-        uses: SonarSource/sonarcloud-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.FABIANA_GITHUB_TOKEN }}
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
