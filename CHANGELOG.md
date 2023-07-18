@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/FabianaTavares/project-art-bs5/compare/v1.1.0...v2.0.0) (2023-07-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* SonarCloud
+
+### Funcionalidades
+
+* sonarCloud ([b66d3e2](https://github.com/FabianaTavares/project-art-bs5/commit/b66d3e2e9619de984a83774e54b67940ce799c8f))
+
 ## 1.1.0 (2023-07-18)
 
 
