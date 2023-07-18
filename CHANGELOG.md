@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/FabianaTavares/project-art-bs5/compare/v2.1.1...v2.2.0) (2023-07-18)
+
+
+### Funcionalidades
+
+* configurando arquivo do sonar ([6ec293e](https://github.com/FabianaTavares/project-art-bs5/commit/6ec293e6cfc13d39d59053153808cec9918a8dd9))
+
 ### [2.1.1](https://github.com/FabianaTavares/project-art-bs5/compare/v2.1.0...v2.1.1) (2023-07-18)
 
 
