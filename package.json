@@ -1,6 +1,6 @@
 {
   "name": "5_art",
-  "version": "2.6.2",
+  "version": "2.6.3",
   "description": "Projeto Art - Bootstrap 5",
   "scripts": {
     "release": "standard-version"
