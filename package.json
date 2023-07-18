@@ -2,7 +2,6 @@
   "name": "5_art",
   "version": "1.0.0",
   "description": "Projeto Art - Bootstrap 5",
-  "main": "index.js",
   "scripts": {
     "release": "standard-version"
   },
@@ -24,12 +23,14 @@
   "devDependencies": {
     "@commitlint/cli": "^17.6.6",
     "@commitlint/config-conventional": "^17.6.6",
+    "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.45.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-html": "^7.1.0",
     "eslint-plugin-prettier": "^5.0.0",
     "husky": "^8.0.3",
     "prettier": "^3.0.0",
+    "standard-version": "^9.5.0",
     "stylelint": "^15.10.1",
     "stylelint-config-prettier": "^9.0.5",
     "stylelint-config-recommended": "^13.0.0",
@@ -38,5 +39,10 @@
   },
   "dependencies": {
     "postcss": "^8.4.26"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
