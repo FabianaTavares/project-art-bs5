@@ -5,8 +5,14 @@ on:
   push:
     branches:
       - master
+      - release-*
+      - feature-*
   pull_request:
-    types: [opened, synchronize, reopened]
+    branches:
+      - main
+      - master
+      - release-*
+      - feature-*
 jobs:
   build:
     # só deixa executar se o último commit não conter 'skip ci' na mensagem
