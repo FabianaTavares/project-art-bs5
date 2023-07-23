@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/FabianaTavares/project-art-bs5/compare/v2.7.0...v3.0.0) (2023-07-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* firebase implements
+
+### Funcionalidades
+
+* implements firebase ([c48b9ab](https://github.com/FabianaTavares/project-art-bs5/commit/c48b9abb71e2321fa4f5160d59fb21148c60a951))
+
 ## [2.7.0](https://github.com/FabianaTavares/project-art-bs5/compare/v2.6.4...v2.7.0) (2023-07-18)
 
 
