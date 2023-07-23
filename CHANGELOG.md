@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://github.com/FabianaTavares/project-art-bs5/compare/v3.0.0...v3.1.0) (2023-07-23)
+
+
+### Funcionalidades
+
+* modify file 404 ([6bf4eb2](https://github.com/FabianaTavares/project-art-bs5/commit/6bf4eb2382650585d56e85f1065cb022fb20d9e6))
+
 ## [3.0.0](https://github.com/FabianaTavares/project-art-bs5/compare/v2.7.0...v3.0.0) (2023-07-23)
 
 
