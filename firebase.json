@@ -1,0 +1,8 @@
+{
+  "hosting": {
+    "site": "art-bs5",
+    "public": "public",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
+
